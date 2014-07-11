@@ -12,7 +12,7 @@
         
           <tr class='prop'>
             <td valign='top'class='nameClear'>
-               <label for="login">Name:</label>
+               <label for="login">UserName:</label>
             </td>
             <td valign='top'
                class='valueClear ${hasErrors(bean:employee,field:'name','errors')}'>
