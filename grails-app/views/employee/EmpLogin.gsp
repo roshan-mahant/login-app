@@ -16,7 +16,7 @@
          <g:form action="handleEmpLogin" method="post" > 
 
               <span class='nameClear'><label for="name">  
-                     EmpName:
+                     UserName:
                     </label> 
               </span> 
               <g:textField name="name" value="${employee?.name}" /> 
